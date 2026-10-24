@@ -1,0 +1,6 @@
+MISSING VALUE PERCENTAGES
+==================================================
+deck           77.216611
+age            19.865320
+embarked        0.224467
+embark_town     0.224467

@@ -1,0 +1,5 @@
+column,missing_percentage,strategy
+age,19.865319865319865,Impute
+embarked,0.22446689113355783,Drop rows
+deck,77.21661054994388,Drop column
+embark_town,0.22446689113355783,Drop rows
